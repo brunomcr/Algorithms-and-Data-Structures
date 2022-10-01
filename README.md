@@ -1,2 +1,2 @@
 # Struct_C
-Struct in C++
+Struct, Pointers and Operator & in C++
