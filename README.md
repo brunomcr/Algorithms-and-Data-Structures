@@ -1,2 +1,3 @@
-# Struct_C
-Struct, Pointers and Operator & in C++
+# Algorithms and Data Structures - C
+
+Struct, Pointers and Operator & in C
